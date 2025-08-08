@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "node-adodb": "^5.0.3"
+  }
+}
